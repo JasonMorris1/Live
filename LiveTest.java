@@ -8,7 +8,7 @@ public class LiveTest
 
         int[] input  ={ 2, 7 ,11, 15};
         int[] expected = {0 , 1};
-        int target = 12;
+        int target = 9;
 
         int[] output = Live.twoSum(input, target);
 
